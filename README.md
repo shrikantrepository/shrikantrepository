@@ -4,7 +4,7 @@
 - 👯 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🖋️ I'm actively involved in training **ML, NLP & DL**.
 - 💻 Targeting assignments in **Data Science, ML and DL**
-- 🎯 Goal (2020): Contribute openly to **Data Science** and **Machine Learning** community.
+- 🎯 Goal (2022): Contribute openly to **Data Science** and **Machine Learning** community.
 - 📌 Scroll down to see my **Pinned Repositories**.
 
 
